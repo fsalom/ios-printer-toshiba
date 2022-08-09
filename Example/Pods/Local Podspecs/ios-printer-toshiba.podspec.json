@@ -1,0 +1,51 @@
+{
+  "name": "ios-printer-toshiba",
+  "version": "0.1.0",
+  "summary": "A short description of ios-printer-toshiba.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fsalom/ios-printer-toshiba",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fsalom": "Fdosalom@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fsalom/ios-printer-toshiba.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "frameworks": [
+      "CFNetwork",
+      "ExternalAccessory"
+    ]
+  },
+  "default_subspecs": "Simulator",
+  "source_files": "**/*.swift",
+  "subspecs": [
+    {
+      "name": "Simulator",
+      "source_files": [
+        "Simulator/**/*",
+        "*.swift"
+      ],
+      "ios": {
+        "vendored_libraries": "Simulator/libBcpIssue.a"
+      }
+    },
+    {
+      "name": "Device",
+      "source_files": [
+        "Device/**/*",
+        "*.swift"
+      ],
+      "ios": {
+        "vendored_libraries": "Device/libBcpIssue.a"
+      }
+    }
+  ]
+}

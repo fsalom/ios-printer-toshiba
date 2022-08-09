@@ -1,0 +1,16 @@
+PODS:
+  - ios-printer-toshiba/Device (0.1.0)
+
+DEPENDENCIES:
+  - ios-printer-toshiba/Device (from `../ios-printer-toshiba`)
+
+EXTERNAL SOURCES:
+  ios-printer-toshiba:
+    :path: "../ios-printer-toshiba"
+
+SPEC CHECKSUMS:
+  ios-printer-toshiba: 4220170c1ddfad4ec798f0e5d6aacbf34f27f08d
+
+PODFILE CHECKSUM: a5f5819571dbbe566899a4b0c47124f1b0e33d9f
+
+COCOAPODS: 1.11.2
