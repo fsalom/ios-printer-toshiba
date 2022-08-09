@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "fsalom": "Fdosalom@gmail.com"
+    "fsalom": "e_fsalom@mercadona.com"
   },
   "source": {
     "git": "https://github.com/fsalom/ios-printer-toshiba.git",
@@ -30,21 +30,21 @@
     {
       "name": "Simulator",
       "source_files": [
-        "Simulator/**/*",
-        "*.swift"
+        "ios-printer-toshiba/Simulator/**/*",
+        "ios-printer-toshiba/*.swift"
       ],
       "ios": {
-        "vendored_libraries": "Simulator/libBcpIssue.a"
+        "vendored_libraries": "ios-printer-toshiba/Simulator/libBcpIssue.a"
       }
     },
     {
       "name": "Device",
       "source_files": [
-        "Device/**/*",
-        "*.swift"
+        "ios-printer-toshiba/Device/**/*",
+        "ios-printer-toshiba/*.swift"
       ],
       "ios": {
-        "vendored_libraries": "Device/libBcpIssue.a"
+        "vendored_libraries": "ios-printer-toshiba/Device/libBcpIssue.a"
       }
     }
   ]

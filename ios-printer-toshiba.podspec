@@ -34,12 +34,12 @@ TODO: Add long description of the pod here.
   s.source_files = '**/*.swift'
 
   s.subspec 'Simulator' do |sp|
-      sp.source_files = 'ios-printer-toshiba/Simulator/**/*', '*.swift'
-      sp.ios.vendored_libraries = 'Simulator/libBcpIssue.a'
+      sp.source_files = 'ios-printer-toshiba/Simulator/**/*', 'ios-printer-toshiba/*.swift'
+      sp.ios.vendored_libraries = 'ios-printer-toshiba/Simulator/libBcpIssue.a'
   end
 
   s.subspec 'Device' do |sp|
-      sp.source_files = 'ios-printer-toshiba/Device/**/*', '*.swift'
-      sp.ios.vendored_libraries = 'Device/libBcpIssue.a'
+      sp.source_files = 'ios-printer-toshiba/Device/**/*', 'ios-printer-toshiba/*.swift'
+      sp.ios.vendored_libraries = 'ios-printer-toshiba/Device/libBcpIssue.a'
   end
 end
