@@ -1,16 +1,16 @@
 PODS:
-  - ios-printer-toshiba/Device (0.1.0)
+  - ios-printer-toshiba/Simulator (0.1.0)
 
 DEPENDENCIES:
-  - ios-printer-toshiba/Device (from `../`)
+  - ios-printer-toshiba/Simulator (from `../`)
 
 EXTERNAL SOURCES:
   ios-printer-toshiba:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ios-printer-toshiba: 5b556d1d5c35cb69c9370b8e8aa26e3bc1c4fde4
+  ios-printer-toshiba: 8fa9c515e8d27bac5475bcc4d44c2aa084ddd38d
 
-PODFILE CHECKSUM: c98129c851caefda90b8425f35a58433d20cf57e
+PODFILE CHECKSUM: ae028d2aa4979050df88bf4297216611ebf87154
 
 COCOAPODS: 1.11.2

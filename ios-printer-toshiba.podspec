@@ -31,11 +31,14 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
   s.ios.frameworks = 'CFNetwork', 'ExternalAccessory'
   s.default_subspec = 'Simulator'
-  s.source_files = '**/*.swift'
 
   s.subspec 'Simulator' do |sp|
       sp.source_files = 'ios-printer-toshiba/Simulator/**/*', 'ios-printer-toshiba/*.swift'
-      sp.ios.vendored_libraries = 'ios-printer-toshiba/Simulator/libBcpIssue.a'
+      sp.ios.vendored_libraries = 'ios-printer-toshiba/Simulator/libBcpIssue.a'      
+      sp.xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+      sp.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+#      sp.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64' }
+#      sp.pod_target_xcconfig = { 'ARCHS[sdk=iphonesimulator*]' => 'x86_64' }
   end
 
   s.subspec 'Device' do |sp|
