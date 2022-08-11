@@ -34,11 +34,8 @@ TODO: Add long description of the pod here.
 
   s.subspec 'Simulator' do |sp|
       sp.source_files = 'ios-printer-toshiba/Simulator/**/*', 'ios-printer-toshiba/*.swift'
-      sp.ios.vendored_libraries = 'ios-printer-toshiba/Simulator/libBcpIssue.a'      
-      sp.xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-      sp.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-#      sp.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64' }
-#      sp.pod_target_xcconfig = { 'ARCHS[sdk=iphonesimulator*]' => 'x86_64' }
+      sp.ios.vendored_libraries = 'ios-printer-toshiba/Simulator/libBcpIssue.a'
+      sp.pod_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'yes' }
   end
 
   s.subspec 'Device' do |sp|

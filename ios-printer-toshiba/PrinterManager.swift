@@ -8,8 +8,8 @@ public enum PrinterStatus {
 
 }
 
-public final class PrinterHandler {
-    public static var shared  = PrinterHandler()
+public final class PrinterManager {
+    public static var shared  = PrinterManager()
 
     var controller: BCPControl = BCPControl()
 
@@ -31,7 +31,13 @@ public final class PrinterHandler {
     public func checkConnected() -> Bool {
         var result: Bool = false
         result = controller.pCom?.sck?.connected ?? false
-        return result
+        if (result == nil) {
+            return false
+        }
+        if (!result) {
+            return false
+        }
+        return true
     }    
 
     public func readStatus(_ sender: AnyObject) {

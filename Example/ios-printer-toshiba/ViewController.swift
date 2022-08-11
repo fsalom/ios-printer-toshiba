@@ -46,7 +46,7 @@ class ViewController: UIViewController {
             showAlert(title: "Falta información", message: "Debes escribir la dirección y puerto de la impresora. Ejemplo: TCP://192.168.1.1:9100")
             return
         }
-        let connection = PrinterHandler.shared.connect(this: tcpIp)
+        let connection = PrinterManager.shared.connect(this: tcpIp)
         if connection {
             connectButton.backgroundColor = UIColor.green
             showAlert(title: "Conexión", message: "Conectado")
@@ -60,7 +60,7 @@ class ViewController: UIViewController {
             showAlert(title: "Error", message: "Fallo al leer  le fichero")
             return
         }
-        let result = PrinterHandler.shared.write(this: text)
+        let result = PrinterManager.shared.write(this: text)
         if result{
             showAlert(title: "Éxito", message: "Envio correctamente enviado a la impresora")
         }else{
@@ -68,7 +68,7 @@ class ViewController: UIViewController {
         }
     }
     @IBAction func onPressCloseConnection(_ sender: Any) {
-        let disconnected = PrinterHandler.shared.disconnect()
+        let disconnected = PrinterManager.shared.disconnect()
         if disconnected {
             showAlert(title: "Éxito", message: "desconectado exitosamente")
         }else{
@@ -84,7 +84,7 @@ class ViewController: UIViewController {
             showAlert(title: "Error", message: "Fallo al leer  le fichero")
             return
         }
-        let result = PrinterHandler.shared.connectPrintAndDisconnect(to: tcpIp, this: text)
+        let result = PrinterManager.shared.connectPrintAndDisconnect(to: tcpIp, this: text)
         switch result {
         case .sendToprint:
             showAlert(title: "Éxito", message: "Envio correctamente enviado a la impresora")

@@ -8,7 +8,5 @@ target 'ios-printer-toshiba_Example' do
 
   target 'ios-printer-toshiba_Tests' do
     inherit! :search_paths
-
-    
   end
 end

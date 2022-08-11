@@ -7,82 +7,82 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		01031BA1608EAEAC3C347CB18A1F7327 /* PrintSpeed.h in Headers */ = {isa = PBXBuildFile; fileRef = 5A41A3E90285E3913AEEC738777F5009 /* PrintSpeed.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		01031BA1608EAEAC3C347CB18A1F7327 /* PrintSpeed.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D3B9F5D182666E8C9BACC069692E2AC /* PrintSpeed.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0382296A7FBE07925883295ECB48627C /* Pods-ios-printer-toshiba_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AADDB548E7F76D39F0FCA37FAB7143CB /* Pods-ios-printer-toshiba_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D35D3F1841167DE8D7434CC80D4B778 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACF0F70E23E8123A415892588E9373D /* Foundation.framework */; };
 		1010A43D3C51EFE5A69560146A00AA96 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACF0F70E23E8123A415892588E9373D /* Foundation.framework */; };
-		1BA478746C3C65A22A6D890508120CB4 /* BLEManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 278E80FEAEAFCF8D7EB3D4473BACD600 /* BLEManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1BF1BC08CC4B3ACFF8313DA03A61FE36 /* BCPControl.h in Headers */ = {isa = PBXBuildFile; fileRef = B3F644666CEB507C8C0E3E06431B47A7 /* BCPControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1C5B7C57F002DD459993C48E548DD077 /* ProfileInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D18D7DA5B3A7647AEE76C9655C13AB6 /* ProfileInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2476C39EAC41F9837A106EF48249E2A3 /* Text.h in Headers */ = {isa = PBXBuildFile; fileRef = 60C3709C8BC791B80EA7F04E54E464A9 /* Text.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		27C7F39124660940B152188A9DA847AC /* TransBlockData.h in Headers */ = {isa = PBXBuildFile; fileRef = 55CE18C52319503BE4921297FC7C6A21 /* TransBlockData.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2944462BF3B5CAF3FD5B3A0BE8ABE51C /* RecObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 807E9E771CBBB3C17547491FC2263C88 /* RecObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2C19E67E13D137B3A22D36F18B77AFDF /* BarSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F1307C0C1E9EC49C91FD69CDE8C5C1E /* BarSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		38E5E1E071369BD06C6929DAF46E8175 /* IComStructCallBack.h in Headers */ = {isa = PBXBuildFile; fileRef = E8224843213D0B2A374FC9749ABC6D4C /* IComStructCallBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3B27224FC49909D61C038B6D38B6D8BF /* Rotation.h in Headers */ = {isa = PBXBuildFile; fileRef = C6449CB2DF2FF484ABC09C0BC4CBDB38 /* Rotation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3D13E9478E8DCA1F7D1D65DE4C831123 /* BXExecute.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F1BBEF093A1E3F9EBFCD96A55DE9420 /* BXExecute.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		40AB3163FCC4B817171C1A4AB005831E /* BcpIssue.h in Headers */ = {isa = PBXBuildFile; fileRef = C4682F2CFEC91E57A41E551A07FA192F /* BcpIssue.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		48E3D3C3E0D38A9FCD3AAE03A161C8F5 /* Pdf417.h in Headers */ = {isa = PBXBuildFile; fileRef = EA99C3B2487781DFD9FD3ED55B6EA409 /* Pdf417.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4C7711CD241D1803F3A60CD2E44527CF /* Barcode.h in Headers */ = {isa = PBXBuildFile; fileRef = BB5D32B5D216CB88D2D0A5D86B802282 /* Barcode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		53DD0668AF036BEAA0B7087020A40D45 /* DoubleRef.h in Headers */ = {isa = PBXBuildFile; fileRef = 99889E1A8A98386298A883A0A131B0C3 /* DoubleRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		599E602A9AF92C7B187C74C83DC90F40 /* Figure.h in Headers */ = {isa = PBXBuildFile; fileRef = 9811E73FD44C931B731ECC31B8508F72 /* Figure.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		59F349CF404072B08B62BBAB0B7B8B92 /* LfmFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 5CEE71E82C49523E8BABD27381B668E7 /* LfmFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F3C1ADA4205A42EB82B35398A82CA18 /* DataCode.h in Headers */ = {isa = PBXBuildFile; fileRef = 98F3BFF9319BE35CCCB7EAC925B48A56 /* DataCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		657AB28E78471059EA051994CBEB6085 /* RoundRect.h in Headers */ = {isa = PBXBuildFile; fileRef = BBF794F330ABF2066B77E41FB2C6DA78 /* RoundRect.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1AC51CC65F2B8F26DD9AFE7EDA41BD0B /* ios-printer-toshiba-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F7A0E62A72F303B3B054D442F4FC0E8 /* ios-printer-toshiba-dummy.m */; };
+		1BA478746C3C65A22A6D890508120CB4 /* BLEManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 7D29E33EC6334F550B5D25B87CB29C61 /* BLEManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1BF1BC08CC4B3ACFF8313DA03A61FE36 /* BCPControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 602FE159ED7519EBE2FCB92D7461CB03 /* BCPControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1C5B7C57F002DD459993C48E548DD077 /* ProfileInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 45FEF303824E6BEAB4F95BC90F8FD810 /* ProfileInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2476C39EAC41F9837A106EF48249E2A3 /* Text.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F3F5E85F16286AFF9DC8503EDA7E1F7 /* Text.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		27C7F39124660940B152188A9DA847AC /* TransBlockData.h in Headers */ = {isa = PBXBuildFile; fileRef = 37E756A82BEB1512C0FD5DFDA1AF2817 /* TransBlockData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2944462BF3B5CAF3FD5B3A0BE8ABE51C /* RecObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E763E0B911281A460DB55A642559044 /* RecObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2C19E67E13D137B3A22D36F18B77AFDF /* BarSet.h in Headers */ = {isa = PBXBuildFile; fileRef = A6A9CCA1B4AEFC1E44DFD24E78BBF735 /* BarSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		38E5E1E071369BD06C6929DAF46E8175 /* IComStructCallBack.h in Headers */ = {isa = PBXBuildFile; fileRef = 7678A077707F44DF51DB525A762F4C41 /* IComStructCallBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3A62615B8331141696154B5DF734B897 /* libBcpIssue.a in Sources */ = {isa = PBXBuildFile; fileRef = 2EB2A38FD90461D8D06D0C4B2F94B471 /* libBcpIssue.a */; };
+		3B27224FC49909D61C038B6D38B6D8BF /* Rotation.h in Headers */ = {isa = PBXBuildFile; fileRef = A6845E6AE2650A08DA9D985A6C4B325F /* Rotation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D13E9478E8DCA1F7D1D65DE4C831123 /* BXExecute.h in Headers */ = {isa = PBXBuildFile; fileRef = DC336B829FD63D576F46AEF42925CF36 /* BXExecute.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		40AB3163FCC4B817171C1A4AB005831E /* BcpIssue.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B97C81B516497AAC5206AB62170C796 /* BcpIssue.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		48E3D3C3E0D38A9FCD3AAE03A161C8F5 /* Pdf417.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D1877E36216E8E6544FCB4758075BBE /* Pdf417.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4C7711CD241D1803F3A60CD2E44527CF /* Barcode.h in Headers */ = {isa = PBXBuildFile; fileRef = CEC0EBBFDE2141147FBE39518AD5FD88 /* Barcode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		53DD0668AF036BEAA0B7087020A40D45 /* DoubleRef.h in Headers */ = {isa = PBXBuildFile; fileRef = 10893533FCC565AF69E8588B5C0242D2 /* DoubleRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		599E602A9AF92C7B187C74C83DC90F40 /* Figure.h in Headers */ = {isa = PBXBuildFile; fileRef = 827B52E060E6A5405D04ABED04804FE7 /* Figure.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		59F349CF404072B08B62BBAB0B7B8B92 /* LfmFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B0DA6B22C5C3B673FC18FC55FCB3DC0 /* LfmFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5F3C1ADA4205A42EB82B35398A82CA18 /* DataCode.h in Headers */ = {isa = PBXBuildFile; fileRef = 488EE0B45E7D86331DECA71EA8CB87E8 /* DataCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		657AB28E78471059EA051994CBEB6085 /* RoundRect.h in Headers */ = {isa = PBXBuildFile; fileRef = 1621FE8FDFD79A5C6CA939271732F2D8 /* RoundRect.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		67CC99332E0D3BE09C0D3D154F84E2F7 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 681855E53E67172CF2BA0C4410498AF1 /* CFNetwork.framework */; };
-		698F106F07307EF3808136A146C5E559 /* Marjin.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EDA31BF6192BA24EC0A4B7D0ACF91E9 /* Marjin.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6A34066AD54C1B38D4B01C8A503EC894 /* Ribon.h in Headers */ = {isa = PBXBuildFile; fileRef = 71165174DBF4031A3CC994E25B800551 /* Ribon.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		698F106F07307EF3808136A146C5E559 /* Marjin.h in Headers */ = {isa = PBXBuildFile; fileRef = 4165C9DAA90B3377FC73D16B1B0011BE /* Marjin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6A34066AD54C1B38D4B01C8A503EC894 /* Ribon.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F5558705736399AB87AAD645B0582B2 /* Ribon.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6CEF4EEB02BB60ECD6E12C1D2743E62D /* ios-printer-toshiba-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CD95EAADECD2E775B54596B81A955F2 /* ios-printer-toshiba-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6FAFB54C630320436314266B8D40B410 /* Line.h in Headers */ = {isa = PBXBuildFile; fileRef = 66E25FA392E0A79F543D38CFE054C76F /* Line.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		70011D70AEDBB396C2597872B3DB66BB /* LongRef.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DD606C3E7751E102C4983331F18909E /* LongRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7180618A3D3B307DDE229536D35A6E55 /* Generate.h in Headers */ = {isa = PBXBuildFile; fileRef = 25EC4C19C5D7DF584B654F30EAEE4CEA /* Generate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		723F2C014EB02148991E7A00B6655B48 /* StringRef.h in Headers */ = {isa = PBXBuildFile; fileRef = 4796AF302D44DA74FA8BE406E479B934 /* StringRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		79A7676E087A19AAFBD0A09A78AF7E32 /* TTECCharacteristicWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 639B20952D154F9AB2CE0B6F18D9B0B2 /* TTECCharacteristicWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7D4474B0E1D7347603EEAAD4C7CA6A8A /* PrinterInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 530F8578935E63FA630F4C8CCE4828DE /* PrinterInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81EA092A687BCF3407E12C3767BC56F9 /* PrintModeStatus.h in Headers */ = {isa = PBXBuildFile; fileRef = 577FD5C25384244482BB5DD3ED2853F8 /* PrintModeStatus.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6FAFB54C630320436314266B8D40B410 /* Line.h in Headers */ = {isa = PBXBuildFile; fileRef = 3145DA6F3E42868DAB577317DE9D1CF1 /* Line.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		70011D70AEDBB396C2597872B3DB66BB /* LongRef.h in Headers */ = {isa = PBXBuildFile; fileRef = DDEB29799BAED58583E966E77D320F00 /* LongRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7180618A3D3B307DDE229536D35A6E55 /* Generate.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F8F3F33513920B77872A6E939C49CD0 /* Generate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		723F2C014EB02148991E7A00B6655B48 /* StringRef.h in Headers */ = {isa = PBXBuildFile; fileRef = D4F00B0879FF3DEC7C091195E2C94477 /* StringRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		79A7676E087A19AAFBD0A09A78AF7E32 /* TTECCharacteristicWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F2BFCF38DFD4EFB53BF83D3D8605DDD /* TTECCharacteristicWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7D4474B0E1D7347603EEAAD4C7CA6A8A /* PrinterInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 70AB9CF31E9F71E78ECA7E47C1FBE88C /* PrinterInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		81EA092A687BCF3407E12C3767BC56F9 /* PrintModeStatus.h in Headers */ = {isa = PBXBuildFile; fileRef = 2BA7B606D4598235581734459B2BDC9D /* PrintModeStatus.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		854DD08116CBF62B010C34F550388D80 /* Pods-ios-printer-toshiba_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF0C973BE41969EE3B0D6519FD7450E9 /* Pods-ios-printer-toshiba_Example-dummy.m */; };
-		87EF4D5778BCC61EFB503589556E244F /* BluetoothController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2969D7F543611755D9DD75DA77F230C7 /* BluetoothController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		87EF4D5778BCC61EFB503589556E244F /* BluetoothController.h in Headers */ = {isa = PBXBuildFile; fileRef = 58D4A204E6B346A749D4C67A5326F726 /* BluetoothController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		88F64833C163E23F3061CEE07ACB7B47 /* PrinterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E5301CCBD6C9B9174BE43D6E7614BA /* PrinterManager.swift */; };
 		89A6DD6CD6246224621CEDC96369E2A2 /* Pods-ios-printer-toshiba_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB12CEF2942253AF55015A4146167E9 /* Pods-ios-printer-toshiba_Tests-dummy.m */; };
-		8A911FAEB26515184E7EB1EE6AAEAE68 /* Graphic.h in Headers */ = {isa = PBXBuildFile; fileRef = 76CAC8A1D3651973F58AC0D86581C55A /* Graphic.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8A911FAEB26515184E7EB1EE6AAEAE68 /* Graphic.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CA21880C83348E4AC5E1DDB05CC113E /* Graphic.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8C27692333B8E1EF73FC71D938216AF2 /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39433CDF9A9246C9D9C0C4080553CAAA /* ExternalAccessory.framework */; };
-		9CD731D36FCE0C1AD863726C605AB82C /* QRCode.h in Headers */ = {isa = PBXBuildFile; fileRef = DDA015B85C9FB830117924A7930B859A /* QRCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A426D03A561099903D3ED734DA179267 /* BarRotate.h in Headers */ = {isa = PBXBuildFile; fileRef = CDECE18307758D58CC049FC12F5509DB /* BarRotate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A4EFBD481A0D40A680A49B6E6DBB8CD4 /* TRANSBLOCK.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2FE5E633E3428B730DC2AE6E28C56E /* TRANSBLOCK.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A6C5DD66D1F47A86F9A4C74B75D13532 /* Rss14.h in Headers */ = {isa = PBXBuildFile; fileRef = A1796663B6A6C0B0065DE7DE0528658A /* Rss14.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A7E85A804CC5ADFD355D2737F93DF5E1 /* RetryIssueData.h in Headers */ = {isa = PBXBuildFile; fileRef = 6BEC654ED052AAD0B31D572FC1A1FE78 /* RetryIssueData.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ADBA169E0130CA74786D659A144E5F0C /* SocketCommunication.h in Headers */ = {isa = PBXBuildFile; fileRef = C223BAD81D16B35C62327CA581A036B7 /* SocketCommunication.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AECF313A28954F0D2CDBC28DC1C09613 /* IntRef.h in Headers */ = {isa = PBXBuildFile; fileRef = 3ACA1DF8590813D76811FC48B32E758D /* IntRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0FC747F42414EB352324ED079547E0E /* FileReader.h in Headers */ = {isa = PBXBuildFile; fileRef = CE73F073B52CBC2F006FEA21B326414D /* FileReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C214E15119F170C318184A633F415AD0 /* PrinterHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B669D6C69A16BD1E7AABA46ED116C1 /* PrinterHandler.swift */; };
-		C6358474F2A5BA2EE8D7CB45C990DCBE /* CRectangle.h in Headers */ = {isa = PBXBuildFile; fileRef = 564C8BF6D61D56696B5BE81BFFEE2D5F /* CRectangle.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C878F78AD87114918C5AAD5604087675 /* Sensor.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E11D0407F1ADEC15CEE09321F1892C7 /* Sensor.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D125D68F7B9F3FAE4BBDE5D8E2D1E1CF /* FeedAdj.h in Headers */ = {isa = PBXBuildFile; fileRef = 582F05DFF7408C4EF17D78AC5B569CFA /* FeedAdj.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D976C559ABDBF48D65830FC5699CFCAA /* BXLabelSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 140A3732E4CABAEEA2A48F5E1AC255C0 /* BXLabelSize.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB6B1F6C6F67EE292B0D2271FF333A78 /* LIBBcpControlCallBack.h in Headers */ = {isa = PBXBuildFile; fileRef = CE7333DD37BF1275C4596636DF71A53F /* LIBBcpControlCallBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DF87C7D34DC9AE0BA05CA268F5DFBB1C /* ios-printer-toshiba-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F7A0E62A72F303B3B054D442F4FC0E8 /* ios-printer-toshiba-dummy.m */; };
-		E08F7049F8F93919C6BD6E2815583BE7 /* Rectangle.h in Headers */ = {isa = PBXBuildFile; fileRef = BF18890641E200E9A2816A7D22930BC9 /* Rectangle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9CD731D36FCE0C1AD863726C605AB82C /* QRCode.h in Headers */ = {isa = PBXBuildFile; fileRef = 0520E8A1417FC1CA958C120EF1853B9C /* QRCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A426D03A561099903D3ED734DA179267 /* BarRotate.h in Headers */ = {isa = PBXBuildFile; fileRef = 0804F633554D477FE5E66F6E5D5EB263 /* BarRotate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A4EFBD481A0D40A680A49B6E6DBB8CD4 /* TRANSBLOCK.h in Headers */ = {isa = PBXBuildFile; fileRef = 086C986BB6FA5AEE8C6D8E8947C0B602 /* TRANSBLOCK.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A6C5DD66D1F47A86F9A4C74B75D13532 /* Rss14.h in Headers */ = {isa = PBXBuildFile; fileRef = E162D97723572BE77FA731903AB87F8C /* Rss14.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A7E85A804CC5ADFD355D2737F93DF5E1 /* RetryIssueData.h in Headers */ = {isa = PBXBuildFile; fileRef = D8797B7F98B0A84BD9F07FBF0BB0AA80 /* RetryIssueData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		ADBA169E0130CA74786D659A144E5F0C /* SocketCommunication.h in Headers */ = {isa = PBXBuildFile; fileRef = E9B40A448CB84F3011E394284BBF8D78 /* SocketCommunication.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AECF313A28954F0D2CDBC28DC1C09613 /* IntRef.h in Headers */ = {isa = PBXBuildFile; fileRef = 69481218588996DE6AE7C548FBF37559 /* IntRef.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C0FC747F42414EB352324ED079547E0E /* FileReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 52D21D327D999C0214D6EDAE9D686298 /* FileReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C6358474F2A5BA2EE8D7CB45C990DCBE /* CRectangle.h in Headers */ = {isa = PBXBuildFile; fileRef = 64B968F2F3C9702A40E9111D51599794 /* CRectangle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C878F78AD87114918C5AAD5604087675 /* Sensor.h in Headers */ = {isa = PBXBuildFile; fileRef = A859904D5FE5D812B9458CEB58E251EC /* Sensor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D125D68F7B9F3FAE4BBDE5D8E2D1E1CF /* FeedAdj.h in Headers */ = {isa = PBXBuildFile; fileRef = C836DB29D5DCA80EFC4A966A8828CB82 /* FeedAdj.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D976C559ABDBF48D65830FC5699CFCAA /* BXLabelSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 92BA4DD562A94A71991ECECF92053E08 /* BXLabelSize.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB6B1F6C6F67EE292B0D2271FF333A78 /* LIBBcpControlCallBack.h in Headers */ = {isa = PBXBuildFile; fileRef = 54CCBF0B0AD405AE1DDEF129D543B611 /* LIBBcpControlCallBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E08F7049F8F93919C6BD6E2815583BE7 /* Rectangle.h in Headers */ = {isa = PBXBuildFile; fileRef = CD0D270D34CF781B490FB65093DFBFAA /* Rectangle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E27254118BC7152C5AB548CFE99E91DC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACF0F70E23E8123A415892588E9373D /* Foundation.framework */; };
-		E4ACD57716629A4D7A75735080389689 /* PrinterInfoHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = D41D81CDB2182C7D642A0E395B203F92 /* PrinterInfoHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E4C1AC3FD492318494F5B187FC18F3F7 /* BXPosAdjust.h in Headers */ = {isa = PBXBuildFile; fileRef = 542769A5A18B68703C2BE1313A39A841 /* BXPosAdjust.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E4F9C7D33645F32E45E81806CE13E6BE /* MaxiCode.h in Headers */ = {isa = PBXBuildFile; fileRef = 58BD1973B81AD7E55129012FF4662024 /* MaxiCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E573B264C916481F788EB6347A1C0F14 /* ComStruct.h in Headers */ = {isa = PBXBuildFile; fileRef = C55EF35199F85252AE0E9C4AF35D03D3 /* ComStruct.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E5B82FA07D5C123B643CE61C11A85915 /* CharType.h in Headers */ = {isa = PBXBuildFile; fileRef = 82E51CD22ADA5498DAAC051AEEA9CEC2 /* CharType.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E5DF52953E8729E6C0E9D22A341B1AB5 /* CSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 15E37A442B3C6F084C86DAA4CBEBE886 /* CSize.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E63E2D523E2BB22D2042344E928C22ED /* HeadAdl.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EDAA45FC7E485039AD9F247BB1FC76A /* HeadAdl.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E684C8D593B7A2E1AD1A14B7B7565B88 /* PrinterInfoConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 48332FA6C98443CEE497018A725A6B2E /* PrinterInfoConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E8327A91DBB81FEA6182687EF929F28E /* Rfid.h in Headers */ = {isa = PBXBuildFile; fileRef = 02F246EFA12F2F5EF2A100B1C6B45FA2 /* Rfid.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA6D42BBC15AE7C3E339DE6A302EB3AA /* ReceiveData.h in Headers */ = {isa = PBXBuildFile; fileRef = D5F8EC922B27216ABFFB73E8E33444D4 /* ReceiveData.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA8FC4D5F562DF5E014E311044FB4113 /* Circle.h in Headers */ = {isa = PBXBuildFile; fileRef = 1764A22C332CD4F745AF15A2649016B9 /* Circle.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EE555229D1F494011AB0A629BFE8CB60 /* TTECBLECentralManager.h in Headers */ = {isa = PBXBuildFile; fileRef = AE37AD4D0AC6255D2502C33BFE6F11AA /* TTECBLECentralManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F0E83CA86442798A3E4051F549A3783F /* PostCode.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D47D9EC5075D5753D0245E22902F14A /* PostCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F3018D320A1217F41A815795CCBE0F66 /* PrinterInfoComm.h in Headers */ = {isa = PBXBuildFile; fileRef = F4C71407847D333B07ADFB75CC03B7B2 /* PrinterInfoComm.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E4ACD57716629A4D7A75735080389689 /* PrinterInfoHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 1114661F0CA42E233DB5AD032FE8E198 /* PrinterInfoHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E4C1AC3FD492318494F5B187FC18F3F7 /* BXPosAdjust.h in Headers */ = {isa = PBXBuildFile; fileRef = C2035BE5366B5C033019F894FF2FB307 /* BXPosAdjust.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E4F9C7D33645F32E45E81806CE13E6BE /* MaxiCode.h in Headers */ = {isa = PBXBuildFile; fileRef = AEE78957C9AFF9C6A8C6A3B601631E28 /* MaxiCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E573B264C916481F788EB6347A1C0F14 /* ComStruct.h in Headers */ = {isa = PBXBuildFile; fileRef = 99609DB98698BC8916C5354B16943FAE /* ComStruct.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E5B82FA07D5C123B643CE61C11A85915 /* CharType.h in Headers */ = {isa = PBXBuildFile; fileRef = A7C5E04BD3E7A226972050F055385C54 /* CharType.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E5DF52953E8729E6C0E9D22A341B1AB5 /* CSize.h in Headers */ = {isa = PBXBuildFile; fileRef = FA8773C3A6B966B07510282AE023F62E /* CSize.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E63E2D523E2BB22D2042344E928C22ED /* HeadAdl.h in Headers */ = {isa = PBXBuildFile; fileRef = 97985CD015988ED32DC2A806C6DF20A8 /* HeadAdl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E684C8D593B7A2E1AD1A14B7B7565B88 /* PrinterInfoConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0B02AD411338A9F4BF31322E621B13 /* PrinterInfoConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E8327A91DBB81FEA6182687EF929F28E /* Rfid.h in Headers */ = {isa = PBXBuildFile; fileRef = 7D277B89D04A92D424854B8BC1802CF3 /* Rfid.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA6D42BBC15AE7C3E339DE6A302EB3AA /* ReceiveData.h in Headers */ = {isa = PBXBuildFile; fileRef = 269B3D0591E55F29D7149FBE268600E0 /* ReceiveData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA8FC4D5F562DF5E014E311044FB4113 /* Circle.h in Headers */ = {isa = PBXBuildFile; fileRef = 0508BA1CB888435E5C6CBE8646F5A086 /* Circle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EE555229D1F494011AB0A629BFE8CB60 /* TTECBLECentralManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 38EA2177A00D331B67A4F663C9C8933C /* TTECBLECentralManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F0E83CA86442798A3E4051F549A3783F /* PostCode.h in Headers */ = {isa = PBXBuildFile; fileRef = B3F3C592268BCB751123B618BF710B7D /* PostCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F3018D320A1217F41A815795CCBE0F66 /* PrinterInfoComm.h in Headers */ = {isa = PBXBuildFile; fileRef = E62F34388390C0DDC1E9C4E2A6AE2776 /* PrinterInfoComm.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F36C74630CADDE3D0F6DADC8F19CBBF6 /* Pods-ios-printer-toshiba_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BD409FE25D5CE714341C13E8F9F79C42 /* Pods-ios-printer-toshiba_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5D63D697C666B10F305A4C6C6FBD8E7 /* TTECPeripheralWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 17227857B235A86906209900FD20339A /* TTECPeripheralWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FC6761B90BE6941E735B7F01259EC0C5 /* Polygon.h in Headers */ = {isa = PBXBuildFile; fileRef = F40483EFD07A8162E95FEDC49E589A2E /* Polygon.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FCADADDC3F5F4BAC2E10A7A5B9DFC2AA /* PrintMode.h in Headers */ = {isa = PBXBuildFile; fileRef = 108A70FD9B0AA561A5AABF72F40FCF77 /* PrintMode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FE61E107FC80CC87A39AE81D43F4A235 /* Charcters.h in Headers */ = {isa = PBXBuildFile; fileRef = 04207B2F4CFAF07862A10D108DAD94B0 /* Charcters.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FE9931E5B2F29187C1BBFC9926B3B19C /* TTECBLEHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E05944F777D839E3F6172A324CE6919 /* TTECBLEHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FF557D8BB610492D29FF0BC07B6EAA95 /* libBcpIssue.a in Sources */ = {isa = PBXBuildFile; fileRef = 3E4C9DB6D1C035BDABF3761A2582882E /* libBcpIssue.a */; };
+		F5D63D697C666B10F305A4C6C6FBD8E7 /* TTECPeripheralWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E58F74CC0540D055AC1F5D097886AD7 /* TTECPeripheralWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FC6761B90BE6941E735B7F01259EC0C5 /* Polygon.h in Headers */ = {isa = PBXBuildFile; fileRef = 2AC07F7E3EF44E4712BDCF1F68222702 /* Polygon.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FCADADDC3F5F4BAC2E10A7A5B9DFC2AA /* PrintMode.h in Headers */ = {isa = PBXBuildFile; fileRef = D753B095CCC32516611E82930099674D /* PrintMode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE61E107FC80CC87A39AE81D43F4A235 /* Charcters.h in Headers */ = {isa = PBXBuildFile; fileRef = 3355D8A7C45D201B72466F2BBE5DDB8B /* Charcters.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE9931E5B2F29187C1BBFC9926B3B19C /* TTECBLEHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = CA51FC1919CCEB85B703682F428F8301 /* TTECBLEHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -103,104 +103,104 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		02F246EFA12F2F5EF2A100B1C6B45FA2 /* Rfid.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rfid.h; sourceTree = "<group>"; };
-		04207B2F4CFAF07862A10D108DAD94B0 /* Charcters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Charcters.h; sourceTree = "<group>"; };
-		0EDA31BF6192BA24EC0A4B7D0ACF91E9 /* Marjin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Marjin.h; sourceTree = "<group>"; };
-		0F1BBEF093A1E3F9EBFCD96A55DE9420 /* BXExecute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BXExecute.h; sourceTree = "<group>"; };
-		108A70FD9B0AA561A5AABF72F40FCF77 /* PrintMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrintMode.h; sourceTree = "<group>"; };
-		140A3732E4CABAEEA2A48F5E1AC255C0 /* BXLabelSize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BXLabelSize.h; sourceTree = "<group>"; };
-		15E37A442B3C6F084C86DAA4CBEBE886 /* CSize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CSize.h; sourceTree = "<group>"; };
-		17227857B235A86906209900FD20339A /* TTECPeripheralWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECPeripheralWrapper.h; sourceTree = "<group>"; };
-		1764A22C332CD4F745AF15A2649016B9 /* Circle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Circle.h; sourceTree = "<group>"; };
-		25EC4C19C5D7DF584B654F30EAEE4CEA /* Generate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Generate.h; sourceTree = "<group>"; };
-		278E80FEAEAFCF8D7EB3D4473BACD600 /* BLEManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BLEManager.h; sourceTree = "<group>"; };
+		0508BA1CB888435E5C6CBE8646F5A086 /* Circle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Circle.h; sourceTree = "<group>"; };
+		0520E8A1417FC1CA958C120EF1853B9C /* QRCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = QRCode.h; sourceTree = "<group>"; };
+		0804F633554D477FE5E66F6E5D5EB263 /* BarRotate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BarRotate.h; sourceTree = "<group>"; };
+		086C986BB6FA5AEE8C6D8E8947C0B602 /* TRANSBLOCK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TRANSBLOCK.h; sourceTree = "<group>"; };
+		10893533FCC565AF69E8588B5C0242D2 /* DoubleRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DoubleRef.h; sourceTree = "<group>"; };
+		1114661F0CA42E233DB5AD032FE8E198 /* PrinterInfoHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfoHeader.h; sourceTree = "<group>"; };
+		1621FE8FDFD79A5C6CA939271732F2D8 /* RoundRect.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RoundRect.h; sourceTree = "<group>"; };
+		269B3D0591E55F29D7149FBE268600E0 /* ReceiveData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ReceiveData.h; sourceTree = "<group>"; };
 		27C8D2A6F472DC6CB093171A3FF8DF9B /* ios-printer-toshiba-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ios-printer-toshiba-prefix.pch"; sourceTree = "<group>"; };
-		2969D7F543611755D9DD75DA77F230C7 /* BluetoothController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BluetoothController.h; sourceTree = "<group>"; };
+		2AC07F7E3EF44E4712BDCF1F68222702 /* Polygon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Polygon.h; sourceTree = "<group>"; };
+		2BA7B606D4598235581734459B2BDC9D /* PrintModeStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrintModeStatus.h; sourceTree = "<group>"; };
+		2EB2A38FD90461D8D06D0C4B2F94B471 /* libBcpIssue.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; path = libBcpIssue.a; sourceTree = "<group>"; };
+		3145DA6F3E42868DAB577317DE9D1CF1 /* Line.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Line.h; sourceTree = "<group>"; };
+		3355D8A7C45D201B72466F2BBE5DDB8B /* Charcters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Charcters.h; sourceTree = "<group>"; };
+		37E756A82BEB1512C0FD5DFDA1AF2817 /* TransBlockData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TransBlockData.h; sourceTree = "<group>"; };
+		38EA2177A00D331B67A4F663C9C8933C /* TTECBLECentralManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECBLECentralManager.h; sourceTree = "<group>"; };
 		39433CDF9A9246C9D9C0C4080553CAAA /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/ExternalAccessory.framework; sourceTree = DEVELOPER_DIR; };
-		3ACA1DF8590813D76811FC48B32E758D /* IntRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = IntRef.h; sourceTree = "<group>"; };
 		3DB12CEF2942253AF55015A4146167E9 /* Pods-ios-printer-toshiba_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ios-printer-toshiba_Tests-dummy.m"; sourceTree = "<group>"; };
-		3E4C9DB6D1C035BDABF3761A2582882E /* libBcpIssue.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; path = libBcpIssue.a; sourceTree = "<group>"; };
-		3F1307C0C1E9EC49C91FD69CDE8C5C1E /* BarSet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BarSet.h; sourceTree = "<group>"; };
-		4796AF302D44DA74FA8BE406E479B934 /* StringRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = StringRef.h; sourceTree = "<group>"; };
-		48332FA6C98443CEE497018A725A6B2E /* PrinterInfoConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfoConfig.h; sourceTree = "<group>"; };
+		4165C9DAA90B3377FC73D16B1B0011BE /* Marjin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Marjin.h; sourceTree = "<group>"; };
+		45FEF303824E6BEAB4F95BC90F8FD810 /* ProfileInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ProfileInterface.h; sourceTree = "<group>"; };
+		488EE0B45E7D86331DECA71EA8CB87E8 /* DataCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DataCode.h; sourceTree = "<group>"; };
 		48B3A1D3E5721849CA76D2409AF26F93 /* Pods-ios-printer-toshiba_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ios-printer-toshiba_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		49AC61290BE46A1700F7DA698CD9FE4E /* Pods-ios-printer-toshiba_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ios-printer-toshiba_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		4DD606C3E7751E102C4983331F18909E /* LongRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LongRef.h; sourceTree = "<group>"; };
-		530F8578935E63FA630F4C8CCE4828DE /* PrinterInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfo.h; sourceTree = "<group>"; };
-		542769A5A18B68703C2BE1313A39A841 /* BXPosAdjust.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BXPosAdjust.h; sourceTree = "<group>"; };
-		55CE18C52319503BE4921297FC7C6A21 /* TransBlockData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TransBlockData.h; sourceTree = "<group>"; };
-		564C8BF6D61D56696B5BE81BFFEE2D5F /* CRectangle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CRectangle.h; sourceTree = "<group>"; };
-		577FD5C25384244482BB5DD3ED2853F8 /* PrintModeStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrintModeStatus.h; sourceTree = "<group>"; };
-		582F05DFF7408C4EF17D78AC5B569CFA /* FeedAdj.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FeedAdj.h; sourceTree = "<group>"; };
+		4B97C81B516497AAC5206AB62170C796 /* BcpIssue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BcpIssue.h; sourceTree = "<group>"; };
+		4F2BFCF38DFD4EFB53BF83D3D8605DDD /* TTECCharacteristicWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECCharacteristicWrapper.h; sourceTree = "<group>"; };
+		4F3F5E85F16286AFF9DC8503EDA7E1F7 /* Text.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Text.h; sourceTree = "<group>"; };
+		4F5558705736399AB87AAD645B0582B2 /* Ribon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Ribon.h; sourceTree = "<group>"; };
+		52D21D327D999C0214D6EDAE9D686298 /* FileReader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FileReader.h; sourceTree = "<group>"; };
+		54CCBF0B0AD405AE1DDEF129D543B611 /* LIBBcpControlCallBack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LIBBcpControlCallBack.h; sourceTree = "<group>"; };
 		5865E83B3F4324FA0A872D5A3E3C68A2 /* Pods-ios-printer-toshiba_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ios-printer-toshiba_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		58BD1973B81AD7E55129012FF4662024 /* MaxiCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MaxiCode.h; sourceTree = "<group>"; };
-		5A41A3E90285E3913AEEC738777F5009 /* PrintSpeed.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrintSpeed.h; sourceTree = "<group>"; };
+		58D4A204E6B346A749D4C67A5326F726 /* BluetoothController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BluetoothController.h; sourceTree = "<group>"; };
+		5B0DA6B22C5C3B673FC18FC55FCB3DC0 /* LfmFile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LfmFile.h; sourceTree = "<group>"; };
 		5B55CC57EADA63FF2D3772DF173B07F0 /* Pods-ios-printer-toshiba_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ios-printer-toshiba_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5CEE71E82C49523E8BABD27381B668E7 /* LfmFile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LfmFile.h; sourceTree = "<group>"; };
-		5EDAA45FC7E485039AD9F247BB1FC76A /* HeadAdl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HeadAdl.h; sourceTree = "<group>"; };
-		5F609F4AF8B2E4C98DA4058D6CFA6C14 /* ios-printer-toshiba.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "ios-printer-toshiba.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5E58F74CC0540D055AC1F5D097886AD7 /* TTECPeripheralWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECPeripheralWrapper.h; sourceTree = "<group>"; };
+		5F0B02AD411338A9F4BF31322E621B13 /* PrinterInfoConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfoConfig.h; sourceTree = "<group>"; };
+		5F609F4AF8B2E4C98DA4058D6CFA6C14 /* ios-printer-toshiba.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "ios-printer-toshiba.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5F7A0E62A72F303B3B054D442F4FC0E8 /* ios-printer-toshiba-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ios-printer-toshiba-dummy.m"; sourceTree = "<group>"; };
-		60C3709C8BC791B80EA7F04E54E464A9 /* Text.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Text.h; sourceTree = "<group>"; };
-		639B20952D154F9AB2CE0B6F18D9B0B2 /* TTECCharacteristicWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECCharacteristicWrapper.h; sourceTree = "<group>"; };
-		66E25FA392E0A79F543D38CFE054C76F /* Line.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Line.h; sourceTree = "<group>"; };
+		602FE159ED7519EBE2FCB92D7461CB03 /* BCPControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BCPControl.h; sourceTree = "<group>"; };
+		64B968F2F3C9702A40E9111D51599794 /* CRectangle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CRectangle.h; sourceTree = "<group>"; };
 		681855E53E67172CF2BA0C4410498AF1 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CFNetwork.framework; sourceTree = DEVELOPER_DIR; };
-		6BEC654ED052AAD0B31D572FC1A1FE78 /* RetryIssueData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RetryIssueData.h; sourceTree = "<group>"; };
-		6D18D7DA5B3A7647AEE76C9655C13AB6 /* ProfileInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ProfileInterface.h; sourceTree = "<group>"; };
-		6E05944F777D839E3F6172A324CE6919 /* TTECBLEHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECBLEHelper.h; sourceTree = "<group>"; };
+		69481218588996DE6AE7C548FBF37559 /* IntRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = IntRef.h; sourceTree = "<group>"; };
+		6CA21880C83348E4AC5E1DDB05CC113E /* Graphic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Graphic.h; sourceTree = "<group>"; };
 		6E7022AD82D86F1186D35BEDD370E32C /* Pods-ios-printer-toshiba_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ios-printer-toshiba_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6FF44B627CBBC40F39D0A0717A2AFBDC /* Pods-ios-printer-toshiba_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ios-printer-toshiba_Example-frameworks.sh"; sourceTree = "<group>"; };
-		71165174DBF4031A3CC994E25B800551 /* Ribon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Ribon.h; sourceTree = "<group>"; };
-		76CAC8A1D3651973F58AC0D86581C55A /* Graphic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Graphic.h; sourceTree = "<group>"; };
+		70AB9CF31E9F71E78ECA7E47C1FBE88C /* PrinterInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfo.h; sourceTree = "<group>"; };
+		7678A077707F44DF51DB525A762F4C41 /* IComStructCallBack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = IComStructCallBack.h; sourceTree = "<group>"; };
 		7CD95EAADECD2E775B54596B81A955F2 /* ios-printer-toshiba-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ios-printer-toshiba-umbrella.h"; sourceTree = "<group>"; };
-		807E9E771CBBB3C17547491FC2263C88 /* RecObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RecObject.h; sourceTree = "<group>"; };
-		82E51CD22ADA5498DAAC051AEEA9CEC2 /* CharType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CharType.h; sourceTree = "<group>"; };
+		7D277B89D04A92D424854B8BC1802CF3 /* Rfid.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rfid.h; sourceTree = "<group>"; };
+		7D29E33EC6334F550B5D25B87CB29C61 /* BLEManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BLEManager.h; sourceTree = "<group>"; };
+		7F8F3F33513920B77872A6E939C49CD0 /* Generate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Generate.h; sourceTree = "<group>"; };
+		827B52E060E6A5405D04ABED04804FE7 /* Figure.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Figure.h; sourceTree = "<group>"; };
 		8F0DF0596B4C75D7FD104077196FDC16 /* Pods-ios-printer-toshiba_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ios-printer-toshiba_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		9020E9D419F61F2EF7BD18DC8ABB1F9A /* ios_printer_toshiba.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ios_printer_toshiba.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9020E9D419F61F2EF7BD18DC8ABB1F9A /* ios-printer-toshiba */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "ios-printer-toshiba"; path = ios_printer_toshiba.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		92BA4DD562A94A71991ECECF92053E08 /* BXLabelSize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BXLabelSize.h; sourceTree = "<group>"; };
 		97700A2D791FB570579EAF156F2F5076 /* Pods-ios-printer-toshiba_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ios-printer-toshiba_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9811E73FD44C931B731ECC31B8508F72 /* Figure.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Figure.h; sourceTree = "<group>"; };
-		98F3BFF9319BE35CCCB7EAC925B48A56 /* DataCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DataCode.h; sourceTree = "<group>"; };
-		99889E1A8A98386298A883A0A131B0C3 /* DoubleRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DoubleRef.h; sourceTree = "<group>"; };
-		9D47D9EC5075D5753D0245E22902F14A /* PostCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PostCode.h; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E11D0407F1ADEC15CEE09321F1892C7 /* Sensor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Sensor.h; sourceTree = "<group>"; };
-		A1796663B6A6C0B0065DE7DE0528658A /* Rss14.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rss14.h; sourceTree = "<group>"; };
+		97985CD015988ED32DC2A806C6DF20A8 /* HeadAdl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HeadAdl.h; sourceTree = "<group>"; };
+		99609DB98698BC8916C5354B16943FAE /* ComStruct.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ComStruct.h; sourceTree = "<group>"; };
+		9D1877E36216E8E6544FCB4758075BBE /* Pdf417.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Pdf417.h; sourceTree = "<group>"; };
+		9D3B9F5D182666E8C9BACC069692E2AC /* PrintSpeed.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrintSpeed.h; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9E763E0B911281A460DB55A642559044 /* RecObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RecObject.h; sourceTree = "<group>"; };
 		A42B72EDF728EB4627966EEBDF2457F3 /* Pods-ios-printer-toshiba_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ios-printer-toshiba_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		A6845E6AE2650A08DA9D985A6C4B325F /* Rotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rotation.h; sourceTree = "<group>"; };
+		A6A9CCA1B4AEFC1E44DFD24E78BBF735 /* BarSet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BarSet.h; sourceTree = "<group>"; };
+		A7C5E04BD3E7A226972050F055385C54 /* CharType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CharType.h; sourceTree = "<group>"; };
+		A859904D5FE5D812B9458CEB58E251EC /* Sensor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Sensor.h; sourceTree = "<group>"; };
 		AACF0F70E23E8123A415892588E9373D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		AADDB548E7F76D39F0FCA37FAB7143CB /* Pods-ios-printer-toshiba_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ios-printer-toshiba_Tests-umbrella.h"; sourceTree = "<group>"; };
-		AE37AD4D0AC6255D2502C33BFE6F11AA /* TTECBLECentralManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECBLECentralManager.h; sourceTree = "<group>"; };
-		B3F644666CEB507C8C0E3E06431B47A7 /* BCPControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BCPControl.h; sourceTree = "<group>"; };
-		BB5D32B5D216CB88D2D0A5D86B802282 /* Barcode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Barcode.h; sourceTree = "<group>"; };
-		BBF794F330ABF2066B77E41FB2C6DA78 /* RoundRect.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RoundRect.h; sourceTree = "<group>"; };
+		AEE78957C9AFF9C6A8C6A3B601631E28 /* MaxiCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MaxiCode.h; sourceTree = "<group>"; };
+		B3F3C592268BCB751123B618BF710B7D /* PostCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PostCode.h; sourceTree = "<group>"; };
 		BD409FE25D5CE714341C13E8F9F79C42 /* Pods-ios-printer-toshiba_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ios-printer-toshiba_Example-umbrella.h"; sourceTree = "<group>"; };
 		BF0C973BE41969EE3B0D6519FD7450E9 /* Pods-ios-printer-toshiba_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ios-printer-toshiba_Example-dummy.m"; sourceTree = "<group>"; };
-		BF18890641E200E9A2816A7D22930BC9 /* Rectangle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rectangle.h; sourceTree = "<group>"; };
 		C1EC73001AA681CB68E5B114551EABC2 /* ios-printer-toshiba.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "ios-printer-toshiba.debug.xcconfig"; sourceTree = "<group>"; };
-		C223BAD81D16B35C62327CA581A036B7 /* SocketCommunication.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SocketCommunication.h; sourceTree = "<group>"; };
-		C4682F2CFEC91E57A41E551A07FA192F /* BcpIssue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BcpIssue.h; sourceTree = "<group>"; };
-		C55EF35199F85252AE0E9C4AF35D03D3 /* ComStruct.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ComStruct.h; sourceTree = "<group>"; };
-		C6449CB2DF2FF484ABC09C0BC4CBDB38 /* Rotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rotation.h; sourceTree = "<group>"; };
+		C2035BE5366B5C033019F894FF2FB307 /* BXPosAdjust.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BXPosAdjust.h; sourceTree = "<group>"; };
+		C836DB29D5DCA80EFC4A966A8828CB82 /* FeedAdj.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FeedAdj.h; sourceTree = "<group>"; };
+		CA51FC1919CCEB85B703682F428F8301 /* TTECBLEHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTECBLEHelper.h; sourceTree = "<group>"; };
+		CD0D270D34CF781B490FB65093DFBFAA /* Rectangle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rectangle.h; sourceTree = "<group>"; };
 		CDE007EA0E505322C71B1EB912029C3F /* Pods-ios-printer-toshiba_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ios-printer-toshiba_Example"; path = Pods_ios_printer_toshiba_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CDECE18307758D58CC049FC12F5509DB /* BarRotate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BarRotate.h; sourceTree = "<group>"; };
-		CE7333DD37BF1275C4596636DF71A53F /* LIBBcpControlCallBack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LIBBcpControlCallBack.h; sourceTree = "<group>"; };
-		CE73F073B52CBC2F006FEA21B326414D /* FileReader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FileReader.h; sourceTree = "<group>"; };
+		CEC0EBBFDE2141147FBE39518AD5FD88 /* Barcode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Barcode.h; sourceTree = "<group>"; };
 		D0D43D12CD97AD59CC8F60BD3B40A03A /* Pods-ios-printer-toshiba_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ios-printer-toshiba_Tests.modulemap"; sourceTree = "<group>"; };
-		D2B669D6C69A16BD1E7AABA46ED116C1 /* PrinterHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PrinterHandler.swift; path = "ios-printer-toshiba/PrinterHandler.swift"; sourceTree = "<group>"; };
 		D351BFE28CDB06C2283ED694CADCE3D7 /* Pods-ios-printer-toshiba_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ios-printer-toshiba_Tests"; path = Pods_ios_printer_toshiba_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D41D81CDB2182C7D642A0E395B203F92 /* PrinterInfoHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfoHeader.h; sourceTree = "<group>"; };
-		D5F8EC922B27216ABFFB73E8E33444D4 /* ReceiveData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ReceiveData.h; sourceTree = "<group>"; };
+		D4F00B0879FF3DEC7C091195E2C94477 /* StringRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = StringRef.h; sourceTree = "<group>"; };
+		D753B095CCC32516611E82930099674D /* PrintMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrintMode.h; sourceTree = "<group>"; };
+		D8797B7F98B0A84BD9F07FBF0BB0AA80 /* RetryIssueData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RetryIssueData.h; sourceTree = "<group>"; };
+		DC336B829FD63D576F46AEF42925CF36 /* BXExecute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BXExecute.h; sourceTree = "<group>"; };
 		DD766F7A41AEEEDA34CB1DC507EA27E4 /* ios-printer-toshiba-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ios-printer-toshiba-Info.plist"; sourceTree = "<group>"; };
-		DDA015B85C9FB830117924A7930B859A /* QRCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = QRCode.h; sourceTree = "<group>"; };
+		DDEB29799BAED58583E966E77D320F00 /* LongRef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LongRef.h; sourceTree = "<group>"; };
 		DECC614E4DFCD74EEFF22819964C9F7E /* Pods-ios-printer-toshiba_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ios-printer-toshiba_Example.modulemap"; sourceTree = "<group>"; };
 		E02AE4F71281DEC4D3A3294D45F669DF /* Pods-ios-printer-toshiba_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ios-printer-toshiba_Example-Info.plist"; sourceTree = "<group>"; };
+		E162D97723572BE77FA731903AB87F8C /* Rss14.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Rss14.h; sourceTree = "<group>"; };
 		E2846A6654E2F573D7990038A527BC79 /* ios-printer-toshiba.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "ios-printer-toshiba.release.xcconfig"; sourceTree = "<group>"; };
+		E4E5301CCBD6C9B9174BE43D6E7614BA /* PrinterManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PrinterManager.swift; path = "ios-printer-toshiba/PrinterManager.swift"; sourceTree = "<group>"; };
+		E62F34388390C0DDC1E9C4E2A6AE2776 /* PrinterInfoComm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfoComm.h; sourceTree = "<group>"; };
 		E745EB3A3FCEE6411406C43B22DE75D1 /* ios-printer-toshiba.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "ios-printer-toshiba.modulemap"; sourceTree = "<group>"; };
-		E8224843213D0B2A374FC9749ABC6D4C /* IComStructCallBack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = IComStructCallBack.h; sourceTree = "<group>"; };
-		EA2FE5E633E3428B730DC2AE6E28C56E /* TRANSBLOCK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TRANSBLOCK.h; sourceTree = "<group>"; };
-		EA99C3B2487781DFD9FD3ED55B6EA409 /* Pdf417.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Pdf417.h; sourceTree = "<group>"; };
+		E9B40A448CB84F3011E394284BBF8D78 /* SocketCommunication.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SocketCommunication.h; sourceTree = "<group>"; };
 		ED584395D81B9F615F068CECFAF8A920 /* Pods-ios-printer-toshiba_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ios-printer-toshiba_Tests-Info.plist"; sourceTree = "<group>"; };
-		F40483EFD07A8162E95FEDC49E589A2E /* Polygon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Polygon.h; sourceTree = "<group>"; };
-		F4C71407847D333B07ADFB75CC03B7B2 /* PrinterInfoComm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PrinterInfoComm.h; sourceTree = "<group>"; };
-		F8E0CDE52FE57FAE86FC548DA321E1A9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F8E0CDE52FE57FAE86FC548DA321E1A9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		FA8773C3A6B966B07510282AE023F62E /* CSize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CSize.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -257,84 +257,11 @@
 			path = "Target Support Files/Pods-ios-printer-toshiba_Tests";
 			sourceTree = "<group>";
 		};
-		21CA6D6B74FE62BEC68B3B361D53B155 /* Simulator */ = {
+		394592CCB48A299C33A16082DB3E3DA4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3E4C9DB6D1C035BDABF3761A2582882E /* libBcpIssue.a */,
-				25F238DDE54B051BB43A2D800BFA8570 /* include */,
 			);
-			name = Simulator;
-			path = "ios-printer-toshiba/Simulator";
-			sourceTree = "<group>";
-		};
-		25F238DDE54B051BB43A2D800BFA8570 /* include */ = {
-			isa = PBXGroup;
-			children = (
-				BB5D32B5D216CB88D2D0A5D86B802282 /* Barcode.h */,
-				CDECE18307758D58CC049FC12F5509DB /* BarRotate.h */,
-				3F1307C0C1E9EC49C91FD69CDE8C5C1E /* BarSet.h */,
-				B3F644666CEB507C8C0E3E06431B47A7 /* BCPControl.h */,
-				C4682F2CFEC91E57A41E551A07FA192F /* BcpIssue.h */,
-				278E80FEAEAFCF8D7EB3D4473BACD600 /* BLEManager.h */,
-				2969D7F543611755D9DD75DA77F230C7 /* BluetoothController.h */,
-				0F1BBEF093A1E3F9EBFCD96A55DE9420 /* BXExecute.h */,
-				140A3732E4CABAEEA2A48F5E1AC255C0 /* BXLabelSize.h */,
-				542769A5A18B68703C2BE1313A39A841 /* BXPosAdjust.h */,
-				04207B2F4CFAF07862A10D108DAD94B0 /* Charcters.h */,
-				82E51CD22ADA5498DAAC051AEEA9CEC2 /* CharType.h */,
-				1764A22C332CD4F745AF15A2649016B9 /* Circle.h */,
-				C55EF35199F85252AE0E9C4AF35D03D3 /* ComStruct.h */,
-				564C8BF6D61D56696B5BE81BFFEE2D5F /* CRectangle.h */,
-				15E37A442B3C6F084C86DAA4CBEBE886 /* CSize.h */,
-				98F3BFF9319BE35CCCB7EAC925B48A56 /* DataCode.h */,
-				99889E1A8A98386298A883A0A131B0C3 /* DoubleRef.h */,
-				582F05DFF7408C4EF17D78AC5B569CFA /* FeedAdj.h */,
-				9811E73FD44C931B731ECC31B8508F72 /* Figure.h */,
-				CE73F073B52CBC2F006FEA21B326414D /* FileReader.h */,
-				25EC4C19C5D7DF584B654F30EAEE4CEA /* Generate.h */,
-				76CAC8A1D3651973F58AC0D86581C55A /* Graphic.h */,
-				5EDAA45FC7E485039AD9F247BB1FC76A /* HeadAdl.h */,
-				E8224843213D0B2A374FC9749ABC6D4C /* IComStructCallBack.h */,
-				3ACA1DF8590813D76811FC48B32E758D /* IntRef.h */,
-				5CEE71E82C49523E8BABD27381B668E7 /* LfmFile.h */,
-				CE7333DD37BF1275C4596636DF71A53F /* LIBBcpControlCallBack.h */,
-				66E25FA392E0A79F543D38CFE054C76F /* Line.h */,
-				4DD606C3E7751E102C4983331F18909E /* LongRef.h */,
-				0EDA31BF6192BA24EC0A4B7D0ACF91E9 /* Marjin.h */,
-				58BD1973B81AD7E55129012FF4662024 /* MaxiCode.h */,
-				EA99C3B2487781DFD9FD3ED55B6EA409 /* Pdf417.h */,
-				F40483EFD07A8162E95FEDC49E589A2E /* Polygon.h */,
-				9D47D9EC5075D5753D0245E22902F14A /* PostCode.h */,
-				530F8578935E63FA630F4C8CCE4828DE /* PrinterInfo.h */,
-				F4C71407847D333B07ADFB75CC03B7B2 /* PrinterInfoComm.h */,
-				48332FA6C98443CEE497018A725A6B2E /* PrinterInfoConfig.h */,
-				D41D81CDB2182C7D642A0E395B203F92 /* PrinterInfoHeader.h */,
-				108A70FD9B0AA561A5AABF72F40FCF77 /* PrintMode.h */,
-				577FD5C25384244482BB5DD3ED2853F8 /* PrintModeStatus.h */,
-				5A41A3E90285E3913AEEC738777F5009 /* PrintSpeed.h */,
-				6D18D7DA5B3A7647AEE76C9655C13AB6 /* ProfileInterface.h */,
-				DDA015B85C9FB830117924A7930B859A /* QRCode.h */,
-				D5F8EC922B27216ABFFB73E8E33444D4 /* ReceiveData.h */,
-				807E9E771CBBB3C17547491FC2263C88 /* RecObject.h */,
-				BF18890641E200E9A2816A7D22930BC9 /* Rectangle.h */,
-				6BEC654ED052AAD0B31D572FC1A1FE78 /* RetryIssueData.h */,
-				02F246EFA12F2F5EF2A100B1C6B45FA2 /* Rfid.h */,
-				71165174DBF4031A3CC994E25B800551 /* Ribon.h */,
-				C6449CB2DF2FF484ABC09C0BC4CBDB38 /* Rotation.h */,
-				BBF794F330ABF2066B77E41FB2C6DA78 /* RoundRect.h */,
-				A1796663B6A6C0B0065DE7DE0528658A /* Rss14.h */,
-				9E11D0407F1ADEC15CEE09321F1892C7 /* Sensor.h */,
-				C223BAD81D16B35C62327CA581A036B7 /* SocketCommunication.h */,
-				4796AF302D44DA74FA8BE406E479B934 /* StringRef.h */,
-				60C3709C8BC791B80EA7F04E54E464A9 /* Text.h */,
-				EA2FE5E633E3428B730DC2AE6E28C56E /* TRANSBLOCK.h */,
-				55CE18C52319503BE4921297FC7C6A21 /* TransBlockData.h */,
-				AE37AD4D0AC6255D2502C33BFE6F11AA /* TTECBLECentralManager.h */,
-				6E05944F777D839E3F6172A324CE6919 /* TTECBLEHelper.h */,
-				639B20952D154F9AB2CE0B6F18D9B0B2 /* TTECCharacteristicWrapper.h */,
-				17227857B235A86906209900FD20339A /* TTECPeripheralWrapper.h */,
-			);
-			path = include;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		4251114620698F5365FEFE6225AC4FF3 /* iOS */ = {
@@ -359,21 +286,11 @@
 		6A4BDEB85F1A27462EB5370FBFABD983 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9020E9D419F61F2EF7BD18DC8ABB1F9A /* ios_printer_toshiba.framework */,
+				9020E9D419F61F2EF7BD18DC8ABB1F9A /* ios-printer-toshiba */,
 				CDE007EA0E505322C71B1EB912029C3F /* Pods-ios-printer-toshiba_Example */,
 				D351BFE28CDB06C2283ED694CADCE3D7 /* Pods-ios-printer-toshiba_Tests */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		79A48E71E6A45E8FF5763AFCD77F0E1A /* Simulator */ = {
-			isa = PBXGroup;
-			children = (
-				D2B669D6C69A16BD1E7AABA46ED116C1 /* PrinterHandler.swift */,
-				D0C467AB36E1432371C537C7856B47C1 /* Frameworks */,
-				21CA6D6B74FE62BEC68B3B361D53B155 /* Simulator */,
-			);
-			name = Simulator;
 			sourceTree = "<group>";
 		};
 		7B6C03BAD95C55D9E9A892516218F460 /* Development Pods */ = {
@@ -399,6 +316,87 @@
 			path = "Example/Pods/Target Support Files/ios-printer-toshiba";
 			sourceTree = "<group>";
 		};
+		96364AD3FA8BE75184831B3237936A93 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				CEC0EBBFDE2141147FBE39518AD5FD88 /* Barcode.h */,
+				0804F633554D477FE5E66F6E5D5EB263 /* BarRotate.h */,
+				A6A9CCA1B4AEFC1E44DFD24E78BBF735 /* BarSet.h */,
+				602FE159ED7519EBE2FCB92D7461CB03 /* BCPControl.h */,
+				4B97C81B516497AAC5206AB62170C796 /* BcpIssue.h */,
+				7D29E33EC6334F550B5D25B87CB29C61 /* BLEManager.h */,
+				58D4A204E6B346A749D4C67A5326F726 /* BluetoothController.h */,
+				DC336B829FD63D576F46AEF42925CF36 /* BXExecute.h */,
+				92BA4DD562A94A71991ECECF92053E08 /* BXLabelSize.h */,
+				C2035BE5366B5C033019F894FF2FB307 /* BXPosAdjust.h */,
+				3355D8A7C45D201B72466F2BBE5DDB8B /* Charcters.h */,
+				A7C5E04BD3E7A226972050F055385C54 /* CharType.h */,
+				0508BA1CB888435E5C6CBE8646F5A086 /* Circle.h */,
+				99609DB98698BC8916C5354B16943FAE /* ComStruct.h */,
+				64B968F2F3C9702A40E9111D51599794 /* CRectangle.h */,
+				FA8773C3A6B966B07510282AE023F62E /* CSize.h */,
+				488EE0B45E7D86331DECA71EA8CB87E8 /* DataCode.h */,
+				10893533FCC565AF69E8588B5C0242D2 /* DoubleRef.h */,
+				C836DB29D5DCA80EFC4A966A8828CB82 /* FeedAdj.h */,
+				827B52E060E6A5405D04ABED04804FE7 /* Figure.h */,
+				52D21D327D999C0214D6EDAE9D686298 /* FileReader.h */,
+				7F8F3F33513920B77872A6E939C49CD0 /* Generate.h */,
+				6CA21880C83348E4AC5E1DDB05CC113E /* Graphic.h */,
+				97985CD015988ED32DC2A806C6DF20A8 /* HeadAdl.h */,
+				7678A077707F44DF51DB525A762F4C41 /* IComStructCallBack.h */,
+				69481218588996DE6AE7C548FBF37559 /* IntRef.h */,
+				5B0DA6B22C5C3B673FC18FC55FCB3DC0 /* LfmFile.h */,
+				54CCBF0B0AD405AE1DDEF129D543B611 /* LIBBcpControlCallBack.h */,
+				3145DA6F3E42868DAB577317DE9D1CF1 /* Line.h */,
+				DDEB29799BAED58583E966E77D320F00 /* LongRef.h */,
+				4165C9DAA90B3377FC73D16B1B0011BE /* Marjin.h */,
+				AEE78957C9AFF9C6A8C6A3B601631E28 /* MaxiCode.h */,
+				9D1877E36216E8E6544FCB4758075BBE /* Pdf417.h */,
+				2AC07F7E3EF44E4712BDCF1F68222702 /* Polygon.h */,
+				B3F3C592268BCB751123B618BF710B7D /* PostCode.h */,
+				70AB9CF31E9F71E78ECA7E47C1FBE88C /* PrinterInfo.h */,
+				E62F34388390C0DDC1E9C4E2A6AE2776 /* PrinterInfoComm.h */,
+				5F0B02AD411338A9F4BF31322E621B13 /* PrinterInfoConfig.h */,
+				1114661F0CA42E233DB5AD032FE8E198 /* PrinterInfoHeader.h */,
+				D753B095CCC32516611E82930099674D /* PrintMode.h */,
+				2BA7B606D4598235581734459B2BDC9D /* PrintModeStatus.h */,
+				9D3B9F5D182666E8C9BACC069692E2AC /* PrintSpeed.h */,
+				45FEF303824E6BEAB4F95BC90F8FD810 /* ProfileInterface.h */,
+				0520E8A1417FC1CA958C120EF1853B9C /* QRCode.h */,
+				269B3D0591E55F29D7149FBE268600E0 /* ReceiveData.h */,
+				9E763E0B911281A460DB55A642559044 /* RecObject.h */,
+				CD0D270D34CF781B490FB65093DFBFAA /* Rectangle.h */,
+				D8797B7F98B0A84BD9F07FBF0BB0AA80 /* RetryIssueData.h */,
+				7D277B89D04A92D424854B8BC1802CF3 /* Rfid.h */,
+				4F5558705736399AB87AAD645B0582B2 /* Ribon.h */,
+				A6845E6AE2650A08DA9D985A6C4B325F /* Rotation.h */,
+				1621FE8FDFD79A5C6CA939271732F2D8 /* RoundRect.h */,
+				E162D97723572BE77FA731903AB87F8C /* Rss14.h */,
+				A859904D5FE5D812B9458CEB58E251EC /* Sensor.h */,
+				E9B40A448CB84F3011E394284BBF8D78 /* SocketCommunication.h */,
+				D4F00B0879FF3DEC7C091195E2C94477 /* StringRef.h */,
+				4F3F5E85F16286AFF9DC8503EDA7E1F7 /* Text.h */,
+				086C986BB6FA5AEE8C6D8E8947C0B602 /* TRANSBLOCK.h */,
+				37E756A82BEB1512C0FD5DFDA1AF2817 /* TransBlockData.h */,
+				38EA2177A00D331B67A4F663C9C8933C /* TTECBLECentralManager.h */,
+				CA51FC1919CCEB85B703682F428F8301 /* TTECBLEHelper.h */,
+				4F2BFCF38DFD4EFB53BF83D3D8605DDD /* TTECCharacteristicWrapper.h */,
+				5E58F74CC0540D055AC1F5D097886AD7 /* TTECPeripheralWrapper.h */,
+			);
+			name = include;
+			path = include;
+			sourceTree = "<group>";
+		};
+		9EA0DA3E15A2C52F607A80F21B76F92B /* Simulator */ = {
+			isa = PBXGroup;
+			children = (
+				2EB2A38FD90461D8D06D0C4B2F94B471 /* libBcpIssue.a */,
+				96364AD3FA8BE75184831B3237936A93 /* include */,
+			);
+			name = Simulator;
+			path = "ios-printer-toshiba/Simulator";
+			sourceTree = "<group>";
+		};
 		CBB3915EA02D81868AA23A99B364A695 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
@@ -419,11 +417,14 @@
 			);
 			sourceTree = "<group>";
 		};
-		D0C467AB36E1432371C537C7856B47C1 /* Frameworks */ = {
+		D7E73B3A40EFA6AE9BB6A344B904D9A7 /* Simulator */ = {
 			isa = PBXGroup;
 			children = (
+				E4E5301CCBD6C9B9174BE43D6E7614BA /* PrinterManager.swift */,
+				394592CCB48A299C33A16082DB3E3DA4 /* Frameworks */,
+				9EA0DA3E15A2C52F607A80F21B76F92B /* Simulator */,
 			);
-			name = Frameworks;
+			name = Simulator;
 			sourceTree = "<group>";
 		};
 		DE75B2D19DFE70B80A203E73EC02F0AB /* Pods-ios-printer-toshiba_Example */ = {
@@ -447,7 +448,7 @@
 			isa = PBXGroup;
 			children = (
 				CBB3915EA02D81868AA23A99B364A695 /* Pod */,
-				79A48E71E6A45E8FF5763AFCD77F0E1A /* Simulator */,
+				D7E73B3A40EFA6AE9BB6A344B904D9A7 /* Simulator */,
 				94B511B9F55B249BFFAC6D23BCC56A6F /* Support Files */,
 			);
 			name = "ios-printer-toshiba";
@@ -552,7 +553,7 @@
 			buildConfigurationList = AAE3C61CBBDFF0B0EE13EDDE99C49600 /* Build configuration list for PBXNativeTarget "ios-printer-toshiba" */;
 			buildPhases = (
 				6E83AC3AEE947F0A59C997D67C4D251A /* Headers */,
-				846FDA4CFC9DEC997584DF4F331297B6 /* Sources */,
+				DED0844218CC351A0C40153574A1E69C /* Sources */,
 				7AF4F5CF29605A6118068063475E325B /* Frameworks */,
 				488A21BEFBB194CB833CE4893E010B91 /* Resources */,
 			);
@@ -562,7 +563,7 @@
 			);
 			name = "ios-printer-toshiba";
 			productName = ios_printer_toshiba;
-			productReference = 9020E9D419F61F2EF7BD18DC8ABB1F9A /* ios_printer_toshiba.framework */;
+			productReference = 9020E9D419F61F2EF7BD18DC8ABB1F9A /* ios-printer-toshiba */;
 			productType = "com.apple.product-type.framework";
 		};
 		91A9604826D6BE7D1F5D9EB96FD97DDB /* Pods-ios-printer-toshiba_Tests */ = {
@@ -611,12 +612,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
-				TargetAttributes = {
-					3ED20CBD50BDDBACB8FFB3D995236679 = {
-						DevelopmentTeam = R88CDNMKLQ;
-						ProvisioningStyle = Automatic;
-					};
-				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -679,13 +674,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		846FDA4CFC9DEC997584DF4F331297B6 /* Sources */ = {
+		DED0844218CC351A0C40153574A1E69C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DF87C7D34DC9AE0BA05CA268F5DFBB1C /* ios-printer-toshiba-dummy.m in Sources */,
-				FF557D8BB610492D29FF0BC07B6EAA95 /* libBcpIssue.a in Sources */,
-				C214E15119F170C318184A633F415AD0 /* PrinterHandler.swift in Sources */,
+				1AC51CC65F2B8F26DD9AFE7EDA41BD0B /* ios-printer-toshiba-dummy.m in Sources */,
+				3A62615B8331141696154B5DF734B897 /* libBcpIssue.a in Sources */,
+				88F64833C163E23F3061CEE07ACB7B47 /* PrinterManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -747,15 +742,11 @@
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = R88CDNMKLQ;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -767,8 +758,6 @@
 				MODULEMAP_FILE = "Target Support Files/ios-printer-toshiba/ios-printer-toshiba.modulemap";
 				PRODUCT_MODULE_NAME = ios_printer_toshiba;
 				PRODUCT_NAME = ios_printer_toshiba;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -901,7 +890,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -1017,15 +1007,11 @@
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = R88CDNMKLQ;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1037,8 +1023,6 @@
 				MODULEMAP_FILE = "Target Support Files/ios-printer-toshiba/ios-printer-toshiba.modulemap";
 				PRODUCT_MODULE_NAME = ios_printer_toshiba;
 				PRODUCT_NAME = ios_printer_toshiba;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";

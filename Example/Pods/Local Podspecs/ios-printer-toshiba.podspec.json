@@ -35,11 +35,8 @@
       "ios": {
         "vendored_libraries": "ios-printer-toshiba/Simulator/libBcpIssue.a"
       },
-      "xcconfig": {
-        "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
-      },
-      "user_target_xcconfig": {
-        "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+      "pod_target_xcconfig": {
+        "ONLY_ACTIVE_ARCH": "yes"
       }
     },
     {
